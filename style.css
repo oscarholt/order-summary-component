@@ -1,0 +1,46 @@
+html { 
+  background: url(./images/pattern-background-desktop.svg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+body {
+
+}
+
+.card {
+  /* position: absolute; or absolute */
+  margin:auto;
+  width:fit-content;
+  height:fit-content;
+  top: 50%;
+  left: 50%;
+  background-color:white;
+  border-radius: 15px;
+}
+
+.card-content {
+  text-align: center;
+}
+
+image {
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+
+.subscribe {
+}
+
+button {
+  display:block;
+  margin: auto;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
