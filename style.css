@@ -19,6 +19,31 @@ html {
   border-radius: 20px;
 }
 
+.card h2 {
+  font-family: 'Red Hat Display';
+  font-weight: 900;
+} 
+
+.card h3 {
+  font-family: 'Red Hat Display';
+  font-weight: 700;
+}
+
+.card p {
+  font-family: 'Red Hat Display';
+  font-weight: 400;
+}
+
+.card a {
+  font-family: 'Red Hat Display';
+  font-weight: 400;
+}
+
+.card button {
+  font-family: 'Red Hat Display';
+  font-weight: 700;
+}
+
 .card-content {
   text-align: center;
 }
