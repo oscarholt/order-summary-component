@@ -33,7 +33,7 @@ The designs were created to the following widths:
 
 TODO: 
 - Fit card in the center of the page ( X )
-- Add rounded corners to top of image
+- Add rounded corners to top of image ( X )
 - Change fonts of text to preselected
 - Style plan section with background color, corners and icon
 - Style proceed button
