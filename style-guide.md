@@ -30,3 +30,14 @@ The designs were created to the following widths:
 
 - Family: [Red Hat Display](https://fonts.google.com/specimen/Red+Hat+Display)
 - Weights: 500, 700, 900
+
+TODO: 
+- Fit card in the center of the page ( X )
+- Add rounded corners to top of image
+- Change fonts of text to preselected
+- Style plan section with background color, corners and icon
+- Style proceed button
+- Style cancel order button
+- Add drop shadows where neccessary (Thick under proceed, smaller under cancel order)
+- Add overlay to background making it more blue
+- Add mobile sizing
