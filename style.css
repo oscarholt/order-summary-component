@@ -23,6 +23,7 @@ html {
 .card h2 {
   font-family: "Red Hat Display";
   font-weight: 900;
+  color: hsl(223, 47%, 23%);
 }
 
 .card h3 {
@@ -34,6 +35,7 @@ html {
   font-family: "Red Hat Display";
   font-weight: 400;
   font-size: 16px;
+  color: hsl(224, 23%, 55%);
 }
 
 .card a {
@@ -111,9 +113,28 @@ img {
   font-size: 0.8rem;
 }
 
-button {
-  display: inline-block;
+.proceed {
+  display: block;
+  width: fit-content;
   margin: auto;
+  padding: 10px 90px;
+  border-radius: 10px;
+  background-color: hsl(245, 75%, 52%);
+  color: white;
+  border: none;
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+
+.cancel {
+  display: block;
+  width: fit-content;
+  margin: auto;
+  color: hsl(224, 23%, 55%);
+  background-color: white;
+  border: none;
+  margin-top: 20px;
+  margin-bottom: 50px;
 }
 
 .attribution {
