@@ -31,7 +31,8 @@ The designs were created to the following widths:
 - Family: [Red Hat Display](https://fonts.google.com/specimen/Red+Hat+Display)
 - Weights: 500, 700, 900
 
-TODO: 
+TODO:
+
 - Fit card in the center of the page ( X )
 - Add rounded corners to top of image ( X )
 - Change fonts of text to preselected ( X )
