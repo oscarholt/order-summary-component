@@ -36,9 +36,9 @@ TODO:
 - Fit card in the center of the page ( X )
 - Add rounded corners to top of image ( X )
 - Change fonts of text to preselected ( X )
-- Style plan section with background color, corners and icon
-- Style proceed button
-- Style cancel order button
+- Style plan section with background color, corners and icon ( X )
+- Style proceed button ( X )
+- Style cancel order button ( X )
 - Add drop shadows where neccessary (Thick under proceed, smaller under cancel order)
 - Add overlay to background making it more blue
 - Add mobile sizing
