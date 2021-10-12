@@ -1,5 +1,6 @@
 html {
   background: url(./images/pattern-background-desktop.svg) no-repeat fixed;
+  background-size:contain;
   background-color: hsl(225, 100%, 94%);
 }
 
@@ -142,10 +143,9 @@ img {
   margin: auto;
   font-size: 11px;
   text-align: center;
-  bottom: 0px;
+  bottom: 3%;
   left: 50%;
   transform: translate(-50%, -50%);
-  margin-bottom: 20px;
 }
 .attribution a {
   color: hsl(228, 45%, 44%);

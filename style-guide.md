@@ -39,6 +39,6 @@ TODO:
 - Style plan section with background color, corners and icon ( X )
 - Style proceed button ( X )
 - Style cancel order button ( X )
-- Add drop shadows where neccessary (Thick under proceed, smaller under cancel order)
-- Add overlay to background making it more blue
+- Add drop shadows where neccessary (Thick under proceed, smaller under cancel order) ( X )
+- Add overlay to background making it more blue ( X )
 - Add mobile sizing
