@@ -18,6 +18,18 @@ html {
   box-shadow: 0px 20px 15px hsl(219deg 68% 85%);
 }
 
+@media screen and (max-width: 425px) {
+  img {
+    width: 100%;
+  }
+  .card {
+    width: 80%;
+  }
+  .cancel {
+    width: 70%;
+  }
+}
+
 .card h2 {
   font-family: "Red Hat Display";
   font-weight: 900;
@@ -149,4 +161,18 @@ img {
 }
 .attribution a {
   color: hsl(228, 45%, 44%);
+}
+
+@media screen and (max-width: 375px) {
+  img {
+    width: 100%;
+  }
+  .card {
+    width: 90%;
+  }
+  .proceed {
+    width: 90%;
+  }
+  .cancel {
+  }
 }

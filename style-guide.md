@@ -41,4 +41,4 @@ TODO:
 - Style cancel order button ( X )
 - Add drop shadows where neccessary (Thick under proceed, smaller under cancel order) ( X )
 - Add overlay to background making it more blue ( X )
-- Add mobile sizing
+- Add mobile sizing (  )
